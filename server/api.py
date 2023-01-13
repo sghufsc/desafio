@@ -18,7 +18,7 @@ class BaseApi():
 	
 	def create(self, data):
 		try:
-			self.model.validate(data)
+			self.model.load(data)
 		except Exception as error:
 			return str(error), 400		
 

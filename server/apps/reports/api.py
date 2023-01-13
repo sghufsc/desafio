@@ -9,6 +9,7 @@ import uuid
 from datetime import datetime
 from pytz import timezone
 import pandas
+from flask import jsonify
 from server.driver import db
 from server.api import BaseApi
 from .models import Report
@@ -29,10 +30,8 @@ class ReportApi(BaseApi):
 
         """
 
-        report_id = uuid.uuid4()
+        report_id = uuid.uuid4().hex
         group_id = data["group_id"]
-        start_at = data["start_at"]
-        end_at = data["end_at"]
 
         # Obtendo sensores do grupo
         sensors = db().sensors.find({"group_id": group_id})
@@ -42,25 +41,14 @@ class ReportApi(BaseApi):
         if not sensors:
             return f"Nenhum sensor do grupo {group_id} foi encontrado", 404
 
-        # Criando escopo de busca no banco
-        query_filter = {
-            "$and": [
-                {"parent_id": {"$in": sensors_ids}},
-                {"timestamp": {"$gte": start_at, "$lt": end_at}}
-            ]
-        }
-
         # Obtendo leituras
-        query_docs = db().reads.find(query_filter)
+        query_docs = db().reads.find({"parent_id": {"$in": sensors_ids}})
 
         # Cada documento do db deverá ser uma linha na tabela
         lines = []
         for doc in query_docs:
-            timestamp = datetime.fromtimestamp(doc["timestamp"])
-            timestamp = timestamp.strftime('%d-%m-%y %H:%M:%S')
 
             data = [
-                timestamp,
                 doc["parent_id"],
                 doc["value"],
                 doc["reliable"]
@@ -69,8 +57,7 @@ class ReportApi(BaseApi):
             lines.append(list(pandas.Series(data)))
 
         # Definindo tabela
-        report = pandas.DataFrame(lines, columns=["Carimbo data/hora",
-                                                  "Identificador do sensor",
+        report = pandas.DataFrame(lines, columns=["Identificador do sensor",
                                                   "Valor da leitura",
                                                   "Confiabilidade da leitura"],)
 
@@ -98,3 +85,5 @@ class ReportApi(BaseApi):
         doc_data = dict(_id=report_id, files=files)
         
         db().reports.insert_one(doc_data)
+
+        return jsonify(doc_data), 200
