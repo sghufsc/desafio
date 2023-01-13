@@ -1,0 +1,2306 @@
+[
+  {
+    "order": 0,
+    "parent_id": "sensor-umidade-03",
+    "value": 75.24,
+    "reliable": 1
+  },
+  {
+    "order": 1,
+    "parent_id": "sensor-umidade-01",
+    "value": 67.1,
+    "reliable": 1
+  },
+  {
+    "order": 2,
+    "parent_id": "sensor-umidade-01",
+    "value": 32.65,
+    "reliable": 2
+  },
+  {
+    "order": 3,
+    "parent_id": "sensor-umidade-01",
+    "value": 90.41,
+    "reliable": 2
+  },
+  {
+    "order": 4,
+    "parent_id": "sensor-umidade-02",
+    "value": 9.93,
+    "reliable": 2
+  },
+  {
+    "order": 5,
+    "parent_id": "sensor-umidade-01",
+    "value": 76.83,
+    "reliable": 2
+  },
+  {
+    "order": 6,
+    "parent_id": "sensor-umidade-02",
+    "value": 23.68,
+    "reliable": 2
+  },
+  {
+    "order": 7,
+    "parent_id": "sensor-umidade-02",
+    "value": 70.48,
+    "reliable": 0
+  },
+  {
+    "order": 8,
+    "parent_id": "sensor-umidade-02",
+    "value": 54.25,
+    "reliable": 1
+  },
+  {
+    "order": 9,
+    "parent_id": "sensor-umidade-01",
+    "value": 22.75,
+    "reliable": 1
+  },
+  {
+    "order": 10,
+    "parent_id": "sensor-umidade-02",
+    "value": 26.14,
+    "reliable": 0
+  },
+  {
+    "order": 11,
+    "parent_id": "sensor-umidade-02",
+    "value": 8.1,
+    "reliable": 1
+  },
+  {
+    "order": 12,
+    "parent_id": "sensor-umidade-02",
+    "value": 80.58,
+    "reliable": 2
+  },
+  {
+    "order": 13,
+    "parent_id": "sensor-umidade-01",
+    "value": 24.68,
+    "reliable": 0
+  },
+  {
+    "order": 14,
+    "parent_id": "sensor-umidade-03",
+    "value": 65.55,
+    "reliable": 0
+  },
+  {
+    "order": 15,
+    "parent_id": "sensor-umidade-03",
+    "value": 78.6,
+    "reliable": 1
+  },
+  {
+    "order": 16,
+    "parent_id": "sensor-umidade-02",
+    "value": 78.53,
+    "reliable": 0
+  },
+  {
+    "order": 17,
+    "parent_id": "sensor-umidade-01",
+    "value": 4.35,
+    "reliable": 1
+  },
+  {
+    "order": 18,
+    "parent_id": "sensor-umidade-01",
+    "value": 13.43,
+    "reliable": 1
+  },
+  {
+    "order": 19,
+    "parent_id": "sensor-umidade-01",
+    "value": 57.36,
+    "reliable": 1
+  },
+  {
+    "order": 20,
+    "parent_id": "sensor-umidade-03",
+    "value": 32.59,
+    "reliable": 0
+  },
+  {
+    "order": 21,
+    "parent_id": "sensor-umidade-01",
+    "value": 79.88,
+    "reliable": 0
+  },
+  {
+    "order": 22,
+    "parent_id": "sensor-umidade-01",
+    "value": 13.54,
+    "reliable": 2
+  },
+  {
+    "order": 23,
+    "parent_id": "sensor-umidade-03",
+    "value": 94.44,
+    "reliable": 0
+  },
+  {
+    "order": 24,
+    "parent_id": "sensor-umidade-03",
+    "value": 5.83,
+    "reliable": 0
+  },
+  {
+    "order": 25,
+    "parent_id": "sensor-umidade-01",
+    "value": 9.84,
+    "reliable": 2
+  },
+  {
+    "order": 26,
+    "parent_id": "sensor-umidade-01",
+    "value": 26.41,
+    "reliable": 0
+  },
+  {
+    "order": 27,
+    "parent_id": "sensor-umidade-03",
+    "value": 32.84,
+    "reliable": 0
+  },
+  {
+    "order": 28,
+    "parent_id": "sensor-umidade-01",
+    "value": 13.61,
+    "reliable": 1
+  },
+  {
+    "order": 29,
+    "parent_id": "sensor-umidade-02",
+    "value": 77.11,
+    "reliable": 0
+  },
+  {
+    "order": 30,
+    "parent_id": "sensor-umidade-03",
+    "value": 33.31,
+    "reliable": 1
+  },
+  {
+    "order": 31,
+    "parent_id": "sensor-umidade-03",
+    "value": 62.94,
+    "reliable": 0
+  },
+  {
+    "order": 32,
+    "parent_id": "sensor-umidade-03",
+    "value": 77.2,
+    "reliable": 2
+  },
+  {
+    "order": 33,
+    "parent_id": "sensor-umidade-01",
+    "value": 19.53,
+    "reliable": 0
+  },
+  {
+    "order": 34,
+    "parent_id": "sensor-umidade-03",
+    "value": 88.32,
+    "reliable": 0
+  },
+  {
+    "order": 35,
+    "parent_id": "sensor-umidade-01",
+    "value": 65.38,
+    "reliable": 0
+  },
+  {
+    "order": 36,
+    "parent_id": "sensor-umidade-03",
+    "value": 92.8,
+    "reliable": 2
+  },
+  {
+    "order": 37,
+    "parent_id": "sensor-umidade-01",
+    "value": 7.27,
+    "reliable": 0
+  },
+  {
+    "order": 38,
+    "parent_id": "sensor-umidade-03",
+    "value": 73.21,
+    "reliable": 0
+  },
+  {
+    "order": 39,
+    "parent_id": "sensor-umidade-01",
+    "value": 6.83,
+    "reliable": 1
+  },
+  {
+    "order": 40,
+    "parent_id": "sensor-umidade-03",
+    "value": 6.13,
+    "reliable": 2
+  },
+  {
+    "order": 41,
+    "parent_id": "sensor-umidade-03",
+    "value": 33.46,
+    "reliable": 1
+  },
+  {
+    "order": 42,
+    "parent_id": "sensor-umidade-02",
+    "value": 62.45,
+    "reliable": 1
+  },
+  {
+    "order": 43,
+    "parent_id": "sensor-umidade-02",
+    "value": 31.07,
+    "reliable": 0
+  },
+  {
+    "order": 44,
+    "parent_id": "sensor-umidade-03",
+    "value": 56.0,
+    "reliable": 2
+  },
+  {
+    "order": 45,
+    "parent_id": "sensor-umidade-01",
+    "value": 15.22,
+    "reliable": 2
+  },
+  {
+    "order": 46,
+    "parent_id": "sensor-umidade-01",
+    "value": 60.23,
+    "reliable": 1
+  },
+  {
+    "order": 47,
+    "parent_id": "sensor-umidade-01",
+    "value": 14.36,
+    "reliable": 1
+  },
+  {
+    "order": 48,
+    "parent_id": "sensor-umidade-03",
+    "value": 76.59,
+    "reliable": 2
+  },
+  {
+    "order": 49,
+    "parent_id": "sensor-umidade-03",
+    "value": 36.44,
+    "reliable": 1
+  },
+  {
+    "order": 50,
+    "parent_id": "sensor-umidade-02",
+    "value": 24.26,
+    "reliable": 0
+  },
+  {
+    "order": 51,
+    "parent_id": "sensor-umidade-01",
+    "value": 70.06,
+    "reliable": 1
+  },
+  {
+    "order": 52,
+    "parent_id": "sensor-umidade-01",
+    "value": 65.06,
+    "reliable": 0
+  },
+  {
+    "order": 53,
+    "parent_id": "sensor-umidade-01",
+    "value": 80.77,
+    "reliable": 0
+  },
+  {
+    "order": 54,
+    "parent_id": "sensor-umidade-02",
+    "value": 40.99,
+    "reliable": 2
+  },
+  {
+    "order": 55,
+    "parent_id": "sensor-umidade-03",
+    "value": 92.55,
+    "reliable": 1
+  },
+  {
+    "order": 56,
+    "parent_id": "sensor-umidade-02",
+    "value": 86.08,
+    "reliable": 2
+  },
+  {
+    "order": 57,
+    "parent_id": "sensor-umidade-02",
+    "value": 0.39,
+    "reliable": 1
+  },
+  {
+    "order": 58,
+    "parent_id": "sensor-umidade-01",
+    "value": 61.75,
+    "reliable": 0
+  },
+  {
+    "order": 59,
+    "parent_id": "sensor-umidade-03",
+    "value": 91.53,
+    "reliable": 0
+  },
+  {
+    "order": 60,
+    "parent_id": "sensor-umidade-02",
+    "value": 41.54,
+    "reliable": 0
+  },
+  {
+    "order": 61,
+    "parent_id": "sensor-umidade-01",
+    "value": 58.09,
+    "reliable": 2
+  },
+  {
+    "order": 62,
+    "parent_id": "sensor-umidade-03",
+    "value": 15.75,
+    "reliable": 0
+  },
+  {
+    "order": 63,
+    "parent_id": "sensor-umidade-02",
+    "value": 76.69,
+    "reliable": 2
+  },
+  {
+    "order": 64,
+    "parent_id": "sensor-umidade-01",
+    "value": 75.65,
+    "reliable": 2
+  },
+  {
+    "order": 65,
+    "parent_id": "sensor-umidade-02",
+    "value": 76.9,
+    "reliable": 1
+  },
+  {
+    "order": 66,
+    "parent_id": "sensor-umidade-02",
+    "value": 48.58,
+    "reliable": 1
+  },
+  {
+    "order": 67,
+    "parent_id": "sensor-umidade-01",
+    "value": 22.06,
+    "reliable": 2
+  },
+  {
+    "order": 68,
+    "parent_id": "sensor-umidade-03",
+    "value": 87.91,
+    "reliable": 1
+  },
+  {
+    "order": 69,
+    "parent_id": "sensor-umidade-03",
+    "value": 68.63,
+    "reliable": 0
+  },
+  {
+    "order": 70,
+    "parent_id": "sensor-umidade-02",
+    "value": 8.68,
+    "reliable": 1
+  },
+  {
+    "order": 71,
+    "parent_id": "sensor-umidade-01",
+    "value": 61.17,
+    "reliable": 0
+  },
+  {
+    "order": 72,
+    "parent_id": "sensor-umidade-02",
+    "value": 9.06,
+    "reliable": 1
+  },
+  {
+    "order": 73,
+    "parent_id": "sensor-umidade-01",
+    "value": 84.05,
+    "reliable": 2
+  },
+  {
+    "order": 74,
+    "parent_id": "sensor-umidade-02",
+    "value": 80.96,
+    "reliable": 0
+  },
+  {
+    "order": 75,
+    "parent_id": "sensor-umidade-02",
+    "value": 82.79,
+    "reliable": 1
+  },
+  {
+    "order": 76,
+    "parent_id": "sensor-umidade-01",
+    "value": 75.14,
+    "reliable": 1
+  },
+  {
+    "order": 77,
+    "parent_id": "sensor-umidade-01",
+    "value": 65.15,
+    "reliable": 1
+  },
+  {
+    "order": 78,
+    "parent_id": "sensor-umidade-02",
+    "value": 70.26,
+    "reliable": 0
+  },
+  {
+    "order": 79,
+    "parent_id": "sensor-umidade-02",
+    "value": 63.66,
+    "reliable": 2
+  },
+  {
+    "order": 80,
+    "parent_id": "sensor-umidade-03",
+    "value": 12.74,
+    "reliable": 2
+  },
+  {
+    "order": 81,
+    "parent_id": "sensor-umidade-02",
+    "value": 81.26,
+    "reliable": 2
+  },
+  {
+    "order": 82,
+    "parent_id": "sensor-umidade-03",
+    "value": 62.82,
+    "reliable": 0
+  },
+  {
+    "order": 83,
+    "parent_id": "sensor-umidade-03",
+    "value": 84.4,
+    "reliable": 1
+  },
+  {
+    "order": 84,
+    "parent_id": "sensor-umidade-01",
+    "value": 21.59,
+    "reliable": 2
+  },
+  {
+    "order": 85,
+    "parent_id": "sensor-umidade-02",
+    "value": 71.98,
+    "reliable": 1
+  },
+  {
+    "order": 86,
+    "parent_id": "sensor-umidade-01",
+    "value": 28.97,
+    "reliable": 0
+  },
+  {
+    "order": 87,
+    "parent_id": "sensor-umidade-01",
+    "value": 85.49,
+    "reliable": 2
+  },
+  {
+    "order": 88,
+    "parent_id": "sensor-umidade-03",
+    "value": 17.91,
+    "reliable": 0
+  },
+  {
+    "order": 89,
+    "parent_id": "sensor-umidade-02",
+    "value": 36.23,
+    "reliable": 0
+  },
+  {
+    "order": 90,
+    "parent_id": "sensor-umidade-02",
+    "value": 52.13,
+    "reliable": 1
+  },
+  {
+    "order": 91,
+    "parent_id": "sensor-umidade-02",
+    "value": 80.43,
+    "reliable": 2
+  },
+  {
+    "order": 92,
+    "parent_id": "sensor-umidade-03",
+    "value": 83.68,
+    "reliable": 0
+  },
+  {
+    "order": 93,
+    "parent_id": "sensor-umidade-01",
+    "value": 27.94,
+    "reliable": 1
+  },
+  {
+    "order": 94,
+    "parent_id": "sensor-umidade-02",
+    "value": 29.84,
+    "reliable": 1
+  },
+  {
+    "order": 95,
+    "parent_id": "sensor-umidade-02",
+    "value": 95.93,
+    "reliable": 1
+  },
+  {
+    "order": 96,
+    "parent_id": "sensor-umidade-03",
+    "value": 24.93,
+    "reliable": 0
+  },
+  {
+    "order": 97,
+    "parent_id": "sensor-umidade-01",
+    "value": 40.73,
+    "reliable": 2
+  },
+  {
+    "order": 98,
+    "parent_id": "sensor-umidade-02",
+    "value": 22.86,
+    "reliable": 1
+  },
+  {
+    "order": 99,
+    "parent_id": "sensor-umidade-01",
+    "value": 57.58,
+    "reliable": 2
+  },
+  {
+    "order": 100,
+    "parent_id": "sensor-umidade-02",
+    "value": 21.49,
+    "reliable": 1
+  },
+  {
+    "order": 101,
+    "parent_id": "sensor-umidade-03",
+    "value": 60.31,
+    "reliable": 2
+  },
+  {
+    "order": 102,
+    "parent_id": "sensor-umidade-01",
+    "value": 68.39,
+    "reliable": 1
+  },
+  {
+    "order": 103,
+    "parent_id": "sensor-umidade-01",
+    "value": 67.91,
+    "reliable": 1
+  },
+  {
+    "order": 104,
+    "parent_id": "sensor-umidade-02",
+    "value": 78.04,
+    "reliable": 2
+  },
+  {
+    "order": 105,
+    "parent_id": "sensor-umidade-03",
+    "value": 67.25,
+    "reliable": 1
+  },
+  {
+    "order": 106,
+    "parent_id": "sensor-umidade-01",
+    "value": 23.33,
+    "reliable": 1
+  },
+  {
+    "order": 107,
+    "parent_id": "sensor-umidade-03",
+    "value": 28.32,
+    "reliable": 1
+  },
+  {
+    "order": 108,
+    "parent_id": "sensor-umidade-02",
+    "value": 65.16,
+    "reliable": 1
+  },
+  {
+    "order": 109,
+    "parent_id": "sensor-umidade-01",
+    "value": 91.25,
+    "reliable": 1
+  },
+  {
+    "order": 110,
+    "parent_id": "sensor-umidade-02",
+    "value": 5.67,
+    "reliable": 0
+  },
+  {
+    "order": 111,
+    "parent_id": "sensor-umidade-03",
+    "value": 7.6,
+    "reliable": 2
+  },
+  {
+    "order": 112,
+    "parent_id": "sensor-umidade-02",
+    "value": 30.21,
+    "reliable": 2
+  },
+  {
+    "order": 113,
+    "parent_id": "sensor-umidade-03",
+    "value": 90.8,
+    "reliable": 0
+  },
+  {
+    "order": 114,
+    "parent_id": "sensor-umidade-01",
+    "value": 19.66,
+    "reliable": 2
+  },
+  {
+    "order": 115,
+    "parent_id": "sensor-umidade-03",
+    "value": 37.14,
+    "reliable": 1
+  },
+  {
+    "order": 116,
+    "parent_id": "sensor-umidade-03",
+    "value": 94.37,
+    "reliable": 2
+  },
+  {
+    "order": 117,
+    "parent_id": "sensor-umidade-01",
+    "value": 46.59,
+    "reliable": 2
+  },
+  {
+    "order": 118,
+    "parent_id": "sensor-umidade-03",
+    "value": 92.88,
+    "reliable": 0
+  },
+  {
+    "order": 119,
+    "parent_id": "sensor-umidade-03",
+    "value": 92.78,
+    "reliable": 1
+  },
+  {
+    "order": 120,
+    "parent_id": "sensor-umidade-03",
+    "value": 1.53,
+    "reliable": 1
+  },
+  {
+    "order": 121,
+    "parent_id": "sensor-umidade-01",
+    "value": 84.27,
+    "reliable": 2
+  },
+  {
+    "order": 122,
+    "parent_id": "sensor-umidade-03",
+    "value": 75.46,
+    "reliable": 0
+  },
+  {
+    "order": 123,
+    "parent_id": "sensor-umidade-03",
+    "value": 57.04,
+    "reliable": 2
+  },
+  {
+    "order": 124,
+    "parent_id": "sensor-umidade-02",
+    "value": 77.32,
+    "reliable": 0
+  },
+  {
+    "order": 125,
+    "parent_id": "sensor-umidade-01",
+    "value": 43.27,
+    "reliable": 2
+  },
+  {
+    "order": 126,
+    "parent_id": "sensor-umidade-03",
+    "value": 42.65,
+    "reliable": 1
+  },
+  {
+    "order": 127,
+    "parent_id": "sensor-umidade-02",
+    "value": 7.94,
+    "reliable": 1
+  },
+  {
+    "order": 128,
+    "parent_id": "sensor-umidade-03",
+    "value": 2.41,
+    "reliable": 2
+  },
+  {
+    "order": 129,
+    "parent_id": "sensor-umidade-03",
+    "value": 6.64,
+    "reliable": 0
+  },
+  {
+    "order": 130,
+    "parent_id": "sensor-umidade-01",
+    "value": 22.84,
+    "reliable": 2
+  },
+  {
+    "order": 131,
+    "parent_id": "sensor-umidade-03",
+    "value": 45.99,
+    "reliable": 2
+  },
+  {
+    "order": 132,
+    "parent_id": "sensor-umidade-03",
+    "value": 25.66,
+    "reliable": 2
+  },
+  {
+    "order": 133,
+    "parent_id": "sensor-umidade-01",
+    "value": 17.25,
+    "reliable": 2
+  },
+  {
+    "order": 134,
+    "parent_id": "sensor-umidade-03",
+    "value": 62.32,
+    "reliable": 2
+  },
+  {
+    "order": 135,
+    "parent_id": "sensor-umidade-01",
+    "value": 71.51,
+    "reliable": 2
+  },
+  {
+    "order": 136,
+    "parent_id": "sensor-umidade-01",
+    "value": 3.85,
+    "reliable": 0
+  },
+  {
+    "order": 137,
+    "parent_id": "sensor-umidade-03",
+    "value": 69.06,
+    "reliable": 1
+  },
+  {
+    "order": 138,
+    "parent_id": "sensor-umidade-02",
+    "value": 66.03,
+    "reliable": 1
+  },
+  {
+    "order": 139,
+    "parent_id": "sensor-umidade-03",
+    "value": 52.07,
+    "reliable": 1
+  },
+  {
+    "order": 140,
+    "parent_id": "sensor-umidade-02",
+    "value": 80.57,
+    "reliable": 0
+  },
+  {
+    "order": 141,
+    "parent_id": "sensor-umidade-03",
+    "value": 79.24,
+    "reliable": 0
+  },
+  {
+    "order": 142,
+    "parent_id": "sensor-umidade-03",
+    "value": 64.89,
+    "reliable": 1
+  },
+  {
+    "order": 143,
+    "parent_id": "sensor-umidade-03",
+    "value": 42.37,
+    "reliable": 0
+  },
+  {
+    "order": 144,
+    "parent_id": "sensor-umidade-02",
+    "value": 60.86,
+    "reliable": 0
+  },
+  {
+    "order": 145,
+    "parent_id": "sensor-umidade-01",
+    "value": 63.49,
+    "reliable": 2
+  },
+  {
+    "order": 146,
+    "parent_id": "sensor-umidade-01",
+    "value": 21.91,
+    "reliable": 0
+  },
+  {
+    "order": 147,
+    "parent_id": "sensor-umidade-02",
+    "value": 26.15,
+    "reliable": 2
+  },
+  {
+    "order": 148,
+    "parent_id": "sensor-umidade-01",
+    "value": 78.43,
+    "reliable": 1
+  },
+  {
+    "order": 149,
+    "parent_id": "sensor-umidade-03",
+    "value": 78.55,
+    "reliable": 0
+  },
+  {
+    "order": 150,
+    "parent_id": "sensor-umidade-01",
+    "value": 86.28,
+    "reliable": 1
+  },
+  {
+    "order": 151,
+    "parent_id": "sensor-umidade-01",
+    "value": 61.85,
+    "reliable": 1
+  },
+  {
+    "order": 152,
+    "parent_id": "sensor-umidade-02",
+    "value": 65.54,
+    "reliable": 2
+  },
+  {
+    "order": 153,
+    "parent_id": "sensor-umidade-01",
+    "value": 39.29,
+    "reliable": 2
+  },
+  {
+    "order": 154,
+    "parent_id": "sensor-umidade-01",
+    "value": 34.0,
+    "reliable": 0
+  },
+  {
+    "order": 155,
+    "parent_id": "sensor-umidade-03",
+    "value": 35.11,
+    "reliable": 2
+  },
+  {
+    "order": 156,
+    "parent_id": "sensor-umidade-03",
+    "value": 21.58,
+    "reliable": 1
+  },
+  {
+    "order": 157,
+    "parent_id": "sensor-umidade-01",
+    "value": 29.23,
+    "reliable": 0
+  },
+  {
+    "order": 158,
+    "parent_id": "sensor-umidade-02",
+    "value": 8.11,
+    "reliable": 2
+  },
+  {
+    "order": 159,
+    "parent_id": "sensor-umidade-03",
+    "value": 89.11,
+    "reliable": 2
+  },
+  {
+    "order": 160,
+    "parent_id": "sensor-umidade-01",
+    "value": 0.57,
+    "reliable": 0
+  },
+  {
+    "order": 161,
+    "parent_id": "sensor-umidade-01",
+    "value": 38.12,
+    "reliable": 0
+  },
+  {
+    "order": 162,
+    "parent_id": "sensor-umidade-03",
+    "value": 27.31,
+    "reliable": 2
+  },
+  {
+    "order": 163,
+    "parent_id": "sensor-umidade-02",
+    "value": 40.11,
+    "reliable": 1
+  },
+  {
+    "order": 164,
+    "parent_id": "sensor-umidade-01",
+    "value": 89.17,
+    "reliable": 2
+  },
+  {
+    "order": 165,
+    "parent_id": "sensor-umidade-01",
+    "value": 31.53,
+    "reliable": 2
+  },
+  {
+    "order": 166,
+    "parent_id": "sensor-umidade-03",
+    "value": 6.22,
+    "reliable": 0
+  },
+  {
+    "order": 167,
+    "parent_id": "sensor-umidade-03",
+    "value": 62.78,
+    "reliable": 0
+  },
+  {
+    "order": 168,
+    "parent_id": "sensor-umidade-02",
+    "value": 56.77,
+    "reliable": 2
+  },
+  {
+    "order": 169,
+    "parent_id": "sensor-umidade-01",
+    "value": 82.61,
+    "reliable": 1
+  },
+  {
+    "order": 170,
+    "parent_id": "sensor-umidade-02",
+    "value": 50.52,
+    "reliable": 2
+  },
+  {
+    "order": 171,
+    "parent_id": "sensor-umidade-01",
+    "value": 87.63,
+    "reliable": 1
+  },
+  {
+    "order": 172,
+    "parent_id": "sensor-umidade-03",
+    "value": 72.33,
+    "reliable": 1
+  },
+  {
+    "order": 173,
+    "parent_id": "sensor-umidade-02",
+    "value": 83.13,
+    "reliable": 2
+  },
+  {
+    "order": 174,
+    "parent_id": "sensor-umidade-01",
+    "value": 12.33,
+    "reliable": 1
+  },
+  {
+    "order": 175,
+    "parent_id": "sensor-umidade-03",
+    "value": 91.81,
+    "reliable": 2
+  },
+  {
+    "order": 176,
+    "parent_id": "sensor-umidade-02",
+    "value": 92.92,
+    "reliable": 2
+  },
+  {
+    "order": 177,
+    "parent_id": "sensor-umidade-01",
+    "value": 9.13,
+    "reliable": 0
+  },
+  {
+    "order": 178,
+    "parent_id": "sensor-umidade-01",
+    "value": 67.87,
+    "reliable": 2
+  },
+  {
+    "order": 179,
+    "parent_id": "sensor-umidade-01",
+    "value": 10.47,
+    "reliable": 1
+  },
+  {
+    "order": 180,
+    "parent_id": "sensor-umidade-03",
+    "value": 63.06,
+    "reliable": 0
+  },
+  {
+    "order": 181,
+    "parent_id": "sensor-umidade-01",
+    "value": 81.27,
+    "reliable": 1
+  },
+  {
+    "order": 182,
+    "parent_id": "sensor-umidade-01",
+    "value": 22.51,
+    "reliable": 0
+  },
+  {
+    "order": 183,
+    "parent_id": "sensor-umidade-03",
+    "value": 19.06,
+    "reliable": 0
+  },
+  {
+    "order": 184,
+    "parent_id": "sensor-umidade-01",
+    "value": 69.97,
+    "reliable": 0
+  },
+  {
+    "order": 185,
+    "parent_id": "sensor-umidade-02",
+    "value": 62.64,
+    "reliable": 2
+  },
+  {
+    "order": 186,
+    "parent_id": "sensor-umidade-01",
+    "value": 81.36,
+    "reliable": 1
+  },
+  {
+    "order": 187,
+    "parent_id": "sensor-umidade-01",
+    "value": 55.24,
+    "reliable": 2
+  },
+  {
+    "order": 188,
+    "parent_id": "sensor-umidade-01",
+    "value": 65.14,
+    "reliable": 2
+  },
+  {
+    "order": 189,
+    "parent_id": "sensor-umidade-03",
+    "value": 71.85,
+    "reliable": 1
+  },
+  {
+    "order": 190,
+    "parent_id": "sensor-umidade-03",
+    "value": 59.72,
+    "reliable": 1
+  },
+  {
+    "order": 191,
+    "parent_id": "sensor-umidade-02",
+    "value": 38.49,
+    "reliable": 2
+  },
+  {
+    "order": 192,
+    "parent_id": "sensor-temperatura-04",
+    "value": 38.52,
+    "reliable": 0
+  },
+  {
+    "order": 193,
+    "parent_id": "sensor-temperatura-05",
+    "value": 33.24,
+    "reliable": 0
+  },
+  {
+    "order": 194,
+    "parent_id": "sensor-temperatura-03",
+    "value": 25.45,
+    "reliable": 1
+  },
+  {
+    "order": 195,
+    "parent_id": "sensor-temperatura-05",
+    "value": 4.74,
+    "reliable": 0
+  },
+  {
+    "order": 196,
+    "parent_id": "sensor-temperatura-01",
+    "value": 36.31,
+    "reliable": 2
+  },
+  {
+    "order": 197,
+    "parent_id": "sensor-temperatura-01",
+    "value": 1.12,
+    "reliable": 1
+  },
+  {
+    "order": 198,
+    "parent_id": "sensor-temperatura-03",
+    "value": 18.35,
+    "reliable": 2
+  },
+  {
+    "order": 199,
+    "parent_id": "sensor-temperatura-01",
+    "value": 0.09,
+    "reliable": 1
+  },
+  {
+    "order": 200,
+    "parent_id": "sensor-temperatura-01",
+    "value": 30.74,
+    "reliable": 1
+  },
+  {
+    "order": 201,
+    "parent_id": "sensor-temperatura-01",
+    "value": 42.46,
+    "reliable": 1
+  },
+  {
+    "order": 202,
+    "parent_id": "sensor-temperatura-03",
+    "value": 27.59,
+    "reliable": 0
+  },
+  {
+    "order": 203,
+    "parent_id": "sensor-temperatura-01",
+    "value": -2.0,
+    "reliable": 2
+  },
+  {
+    "order": 204,
+    "parent_id": "sensor-temperatura-01",
+    "value": 26.33,
+    "reliable": 0
+  },
+  {
+    "order": 205,
+    "parent_id": "sensor-temperatura-05",
+    "value": 40.1,
+    "reliable": 2
+  },
+  {
+    "order": 206,
+    "parent_id": "sensor-temperatura-02",
+    "value": 18.18,
+    "reliable": 1
+  },
+  {
+    "order": 207,
+    "parent_id": "sensor-temperatura-05",
+    "value": 14.19,
+    "reliable": 1
+  },
+  {
+    "order": 208,
+    "parent_id": "sensor-temperatura-05",
+    "value": 34.7,
+    "reliable": 0
+  },
+  {
+    "order": 209,
+    "parent_id": "sensor-temperatura-04",
+    "value": 41.54,
+    "reliable": 1
+  },
+  {
+    "order": 210,
+    "parent_id": "sensor-temperatura-02",
+    "value": -2.73,
+    "reliable": 0
+  },
+  {
+    "order": 211,
+    "parent_id": "sensor-temperatura-05",
+    "value": 38.63,
+    "reliable": 2
+  },
+  {
+    "order": 212,
+    "parent_id": "sensor-temperatura-05",
+    "value": 30.29,
+    "reliable": 2
+  },
+  {
+    "order": 213,
+    "parent_id": "sensor-temperatura-02",
+    "value": 45.41,
+    "reliable": 2
+  },
+  {
+    "order": 214,
+    "parent_id": "sensor-temperatura-01",
+    "value": 12.16,
+    "reliable": 0
+  },
+  {
+    "order": 215,
+    "parent_id": "sensor-temperatura-05",
+    "value": 9.34,
+    "reliable": 1
+  },
+  {
+    "order": 216,
+    "parent_id": "sensor-temperatura-01",
+    "value": 49.32,
+    "reliable": 2
+  },
+  {
+    "order": 217,
+    "parent_id": "sensor-temperatura-01",
+    "value": 15.83,
+    "reliable": 2
+  },
+  {
+    "order": 218,
+    "parent_id": "sensor-temperatura-01",
+    "value": 35.0,
+    "reliable": 1
+  },
+  {
+    "order": 219,
+    "parent_id": "sensor-temperatura-04",
+    "value": 39.7,
+    "reliable": 2
+  },
+  {
+    "order": 220,
+    "parent_id": "sensor-temperatura-03",
+    "value": 18.3,
+    "reliable": 1
+  },
+  {
+    "order": 221,
+    "parent_id": "sensor-temperatura-05",
+    "value": 7.54,
+    "reliable": 2
+  },
+  {
+    "order": 222,
+    "parent_id": "sensor-temperatura-01",
+    "value": 11.18,
+    "reliable": 2
+  },
+  {
+    "order": 223,
+    "parent_id": "sensor-temperatura-05",
+    "value": 1.25,
+    "reliable": 0
+  },
+  {
+    "order": 224,
+    "parent_id": "sensor-temperatura-01",
+    "value": 31.27,
+    "reliable": 0
+  },
+  {
+    "order": 225,
+    "parent_id": "sensor-temperatura-03",
+    "value": 33.19,
+    "reliable": 2
+  },
+  {
+    "order": 226,
+    "parent_id": "sensor-temperatura-03",
+    "value": 41.86,
+    "reliable": 0
+  },
+  {
+    "order": 227,
+    "parent_id": "sensor-temperatura-03",
+    "value": 35.28,
+    "reliable": 2
+  },
+  {
+    "order": 228,
+    "parent_id": "sensor-temperatura-04",
+    "value": 8.78,
+    "reliable": 0
+  },
+  {
+    "order": 229,
+    "parent_id": "sensor-temperatura-04",
+    "value": 22.66,
+    "reliable": 0
+  },
+  {
+    "order": 230,
+    "parent_id": "sensor-temperatura-03",
+    "value": 49.0,
+    "reliable": 2
+  },
+  {
+    "order": 231,
+    "parent_id": "sensor-temperatura-04",
+    "value": 21.91,
+    "reliable": 0
+  },
+  {
+    "order": 232,
+    "parent_id": "sensor-temperatura-02",
+    "value": 11.37,
+    "reliable": 0
+  },
+  {
+    "order": 233,
+    "parent_id": "sensor-temperatura-04",
+    "value": 45.8,
+    "reliable": 2
+  },
+  {
+    "order": 234,
+    "parent_id": "sensor-temperatura-03",
+    "value": 9.88,
+    "reliable": 0
+  },
+  {
+    "order": 235,
+    "parent_id": "sensor-temperatura-02",
+    "value": 0.69,
+    "reliable": 0
+  },
+  {
+    "order": 236,
+    "parent_id": "sensor-temperatura-05",
+    "value": 34.38,
+    "reliable": 1
+  },
+  {
+    "order": 237,
+    "parent_id": "sensor-temperatura-03",
+    "value": 36.32,
+    "reliable": 0
+  },
+  {
+    "order": 238,
+    "parent_id": "sensor-temperatura-03",
+    "value": 14.41,
+    "reliable": 1
+  },
+  {
+    "order": 239,
+    "parent_id": "sensor-temperatura-02",
+    "value": 11.07,
+    "reliable": 2
+  },
+  {
+    "order": 240,
+    "parent_id": "sensor-temperatura-03",
+    "value": 5.36,
+    "reliable": 1
+  },
+  {
+    "order": 241,
+    "parent_id": "sensor-temperatura-02",
+    "value": 26.91,
+    "reliable": 1
+  },
+  {
+    "order": 242,
+    "parent_id": "sensor-temperatura-01",
+    "value": 34.25,
+    "reliable": 2
+  },
+  {
+    "order": 243,
+    "parent_id": "sensor-temperatura-02",
+    "value": 30.32,
+    "reliable": 0
+  },
+  {
+    "order": 244,
+    "parent_id": "sensor-temperatura-05",
+    "value": 40.06,
+    "reliable": 2
+  },
+  {
+    "order": 245,
+    "parent_id": "sensor-temperatura-02",
+    "value": 2.44,
+    "reliable": 0
+  },
+  {
+    "order": 246,
+    "parent_id": "sensor-temperatura-04",
+    "value": 15.28,
+    "reliable": 0
+  },
+  {
+    "order": 247,
+    "parent_id": "sensor-temperatura-01",
+    "value": 38.73,
+    "reliable": 1
+  },
+  {
+    "order": 248,
+    "parent_id": "sensor-temperatura-05",
+    "value": 45.12,
+    "reliable": 0
+  },
+  {
+    "order": 249,
+    "parent_id": "sensor-temperatura-05",
+    "value": 46.31,
+    "reliable": 2
+  },
+  {
+    "order": 250,
+    "parent_id": "sensor-temperatura-05",
+    "value": 37.73,
+    "reliable": 1
+  },
+  {
+    "order": 251,
+    "parent_id": "sensor-temperatura-05",
+    "value": 14.69,
+    "reliable": 2
+  },
+  {
+    "order": 252,
+    "parent_id": "sensor-temperatura-03",
+    "value": 14.43,
+    "reliable": 2
+  },
+  {
+    "order": 253,
+    "parent_id": "sensor-temperatura-04",
+    "value": 27.98,
+    "reliable": 1
+  },
+  {
+    "order": 254,
+    "parent_id": "sensor-temperatura-05",
+    "value": 24.23,
+    "reliable": 2
+  },
+  {
+    "order": 255,
+    "parent_id": "sensor-temperatura-01",
+    "value": 5.77,
+    "reliable": 2
+  },
+  {
+    "order": 256,
+    "parent_id": "sensor-temperatura-01",
+    "value": 4.89,
+    "reliable": 2
+  },
+  {
+    "order": 257,
+    "parent_id": "sensor-temperatura-03",
+    "value": -2.48,
+    "reliable": 0
+  },
+  {
+    "order": 258,
+    "parent_id": "sensor-temperatura-03",
+    "value": 37.28,
+    "reliable": 0
+  },
+  {
+    "order": 259,
+    "parent_id": "sensor-temperatura-02",
+    "value": 27.31,
+    "reliable": 2
+  },
+  {
+    "order": 260,
+    "parent_id": "sensor-temperatura-04",
+    "value": 25.29,
+    "reliable": 0
+  },
+  {
+    "order": 261,
+    "parent_id": "sensor-temperatura-05",
+    "value": 28.77,
+    "reliable": 1
+  },
+  {
+    "order": 262,
+    "parent_id": "sensor-temperatura-03",
+    "value": 41.03,
+    "reliable": 2
+  },
+  {
+    "order": 263,
+    "parent_id": "sensor-temperatura-03",
+    "value": 45.46,
+    "reliable": 0
+  },
+  {
+    "order": 264,
+    "parent_id": "sensor-temperatura-02",
+    "value": 9.91,
+    "reliable": 1
+  },
+  {
+    "order": 265,
+    "parent_id": "sensor-temperatura-01",
+    "value": 6.77,
+    "reliable": 2
+  },
+  {
+    "order": 266,
+    "parent_id": "sensor-temperatura-01",
+    "value": 20.85,
+    "reliable": 0
+  },
+  {
+    "order": 267,
+    "parent_id": "sensor-temperatura-02",
+    "value": 27.1,
+    "reliable": 0
+  },
+  {
+    "order": 268,
+    "parent_id": "sensor-temperatura-04",
+    "value": 29.49,
+    "reliable": 1
+  },
+  {
+    "order": 269,
+    "parent_id": "sensor-temperatura-04",
+    "value": 20.45,
+    "reliable": 1
+  },
+  {
+    "order": 270,
+    "parent_id": "sensor-temperatura-01",
+    "value": 34.21,
+    "reliable": 0
+  },
+  {
+    "order": 271,
+    "parent_id": "sensor-temperatura-03",
+    "value": -2.05,
+    "reliable": 1
+  },
+  {
+    "order": 272,
+    "parent_id": "sensor-temperatura-04",
+    "value": 44.18,
+    "reliable": 1
+  },
+  {
+    "order": 273,
+    "parent_id": "sensor-temperatura-04",
+    "value": 21.36,
+    "reliable": 0
+  },
+  {
+    "order": 274,
+    "parent_id": "sensor-temperatura-05",
+    "value": 3.03,
+    "reliable": 2
+  },
+  {
+    "order": 275,
+    "parent_id": "sensor-temperatura-03",
+    "value": 20.7,
+    "reliable": 1
+  },
+  {
+    "order": 276,
+    "parent_id": "sensor-temperatura-04",
+    "value": 38.59,
+    "reliable": 1
+  },
+  {
+    "order": 277,
+    "parent_id": "sensor-temperatura-03",
+    "value": 15.94,
+    "reliable": 0
+  },
+  {
+    "order": 278,
+    "parent_id": "sensor-temperatura-02",
+    "value": 0.14,
+    "reliable": 1
+  },
+  {
+    "order": 279,
+    "parent_id": "sensor-temperatura-04",
+    "value": 43.94,
+    "reliable": 2
+  },
+  {
+    "order": 280,
+    "parent_id": "sensor-temperatura-02",
+    "value": 40.88,
+    "reliable": 2
+  },
+  {
+    "order": 281,
+    "parent_id": "sensor-temperatura-02",
+    "value": 6.65,
+    "reliable": 2
+  },
+  {
+    "order": 282,
+    "parent_id": "sensor-temperatura-01",
+    "value": 1.99,
+    "reliable": 1
+  },
+  {
+    "order": 283,
+    "parent_id": "sensor-temperatura-05",
+    "value": 42.33,
+    "reliable": 2
+  },
+  {
+    "order": 284,
+    "parent_id": "sensor-temperatura-05",
+    "value": -0.58,
+    "reliable": 2
+  },
+  {
+    "order": 285,
+    "parent_id": "sensor-temperatura-05",
+    "value": 43.9,
+    "reliable": 2
+  },
+  {
+    "order": 286,
+    "parent_id": "sensor-temperatura-02",
+    "value": 25.84,
+    "reliable": 0
+  },
+  {
+    "order": 287,
+    "parent_id": "sensor-temperatura-05",
+    "value": 31.28,
+    "reliable": 2
+  },
+  {
+    "order": 288,
+    "parent_id": "sensor-temperatura-05",
+    "value": 47.88,
+    "reliable": 2
+  },
+  {
+    "order": 289,
+    "parent_id": "sensor-temperatura-04",
+    "value": 42.66,
+    "reliable": 2
+  },
+  {
+    "order": 290,
+    "parent_id": "sensor-temperatura-03",
+    "value": 42.72,
+    "reliable": 1
+  },
+  {
+    "order": 291,
+    "parent_id": "sensor-temperatura-03",
+    "value": 18.11,
+    "reliable": 0
+  },
+  {
+    "order": 292,
+    "parent_id": "sensor-temperatura-02",
+    "value": 17.32,
+    "reliable": 2
+  },
+  {
+    "order": 293,
+    "parent_id": "sensor-temperatura-01",
+    "value": 30.24,
+    "reliable": 1
+  },
+  {
+    "order": 294,
+    "parent_id": "sensor-temperatura-02",
+    "value": 38.18,
+    "reliable": 2
+  },
+  {
+    "order": 295,
+    "parent_id": "sensor-temperatura-03",
+    "value": 36.38,
+    "reliable": 0
+  },
+  {
+    "order": 296,
+    "parent_id": "sensor-temperatura-05",
+    "value": 11.03,
+    "reliable": 0
+  },
+  {
+    "order": 297,
+    "parent_id": "sensor-temperatura-02",
+    "value": 29.37,
+    "reliable": 2
+  },
+  {
+    "order": 298,
+    "parent_id": "sensor-temperatura-04",
+    "value": 0.15,
+    "reliable": 0
+  },
+  {
+    "order": 299,
+    "parent_id": "sensor-temperatura-02",
+    "value": 30.38,
+    "reliable": 1
+  },
+  {
+    "order": 300,
+    "parent_id": "sensor-temperatura-02",
+    "value": 40.94,
+    "reliable": 2
+  },
+  {
+    "order": 301,
+    "parent_id": "sensor-temperatura-01",
+    "value": 45.86,
+    "reliable": 2
+  },
+  {
+    "order": 302,
+    "parent_id": "sensor-temperatura-03",
+    "value": 14.93,
+    "reliable": 2
+  },
+  {
+    "order": 303,
+    "parent_id": "sensor-temperatura-02",
+    "value": 9.36,
+    "reliable": 1
+  },
+  {
+    "order": 304,
+    "parent_id": "sensor-temperatura-03",
+    "value": 40.87,
+    "reliable": 1
+  },
+  {
+    "order": 305,
+    "parent_id": "sensor-temperatura-01",
+    "value": 37.82,
+    "reliable": 0
+  },
+  {
+    "order": 306,
+    "parent_id": "sensor-temperatura-02",
+    "value": 26.83,
+    "reliable": 0
+  },
+  {
+    "order": 307,
+    "parent_id": "sensor-temperatura-03",
+    "value": 11.13,
+    "reliable": 1
+  },
+  {
+    "order": 308,
+    "parent_id": "sensor-temperatura-01",
+    "value": -0.48,
+    "reliable": 2
+  },
+  {
+    "order": 309,
+    "parent_id": "sensor-temperatura-01",
+    "value": 29.06,
+    "reliable": 1
+  },
+  {
+    "order": 310,
+    "parent_id": "sensor-temperatura-05",
+    "value": 41.67,
+    "reliable": 0
+  },
+  {
+    "order": 311,
+    "parent_id": "sensor-temperatura-05",
+    "value": 10.38,
+    "reliable": 1
+  },
+  {
+    "order": 312,
+    "parent_id": "sensor-temperatura-05",
+    "value": 37.03,
+    "reliable": 2
+  },
+  {
+    "order": 313,
+    "parent_id": "sensor-temperatura-02",
+    "value": -2.92,
+    "reliable": 1
+  },
+  {
+    "order": 314,
+    "parent_id": "sensor-temperatura-01",
+    "value": 3.68,
+    "reliable": 1
+  },
+  {
+    "order": 315,
+    "parent_id": "sensor-temperatura-02",
+    "value": 25.6,
+    "reliable": 2
+  },
+  {
+    "order": 316,
+    "parent_id": "sensor-temperatura-04",
+    "value": 38.65,
+    "reliable": 0
+  },
+  {
+    "order": 317,
+    "parent_id": "sensor-temperatura-01",
+    "value": 22.59,
+    "reliable": 0
+  },
+  {
+    "order": 318,
+    "parent_id": "sensor-temperatura-05",
+    "value": 39.7,
+    "reliable": 2
+  },
+  {
+    "order": 319,
+    "parent_id": "sensor-temperatura-04",
+    "value": 19.21,
+    "reliable": 2
+  },
+  {
+    "order": 320,
+    "parent_id": "sensor-temperatura-03",
+    "value": 35.42,
+    "reliable": 0
+  },
+  {
+    "order": 321,
+    "parent_id": "sensor-temperatura-03",
+    "value": 42.46,
+    "reliable": 2
+  },
+  {
+    "order": 322,
+    "parent_id": "sensor-temperatura-04",
+    "value": 6.59,
+    "reliable": 0
+  },
+  {
+    "order": 323,
+    "parent_id": "sensor-temperatura-01",
+    "value": 28.62,
+    "reliable": 2
+  },
+  {
+    "order": 324,
+    "parent_id": "sensor-temperatura-01",
+    "value": 27.78,
+    "reliable": 0
+  },
+  {
+    "order": 325,
+    "parent_id": "sensor-temperatura-02",
+    "value": 4.03,
+    "reliable": 1
+  },
+  {
+    "order": 326,
+    "parent_id": "sensor-temperatura-04",
+    "value": 15.45,
+    "reliable": 0
+  },
+  {
+    "order": 327,
+    "parent_id": "sensor-temperatura-01",
+    "value": 32.19,
+    "reliable": 1
+  },
+  {
+    "order": 328,
+    "parent_id": "sensor-temperatura-04",
+    "value": 6.9,
+    "reliable": 1
+  },
+  {
+    "order": 329,
+    "parent_id": "sensor-temperatura-02",
+    "value": 39.98,
+    "reliable": 2
+  },
+  {
+    "order": 330,
+    "parent_id": "sensor-temperatura-01",
+    "value": 47.38,
+    "reliable": 2
+  },
+  {
+    "order": 331,
+    "parent_id": "sensor-temperatura-05",
+    "value": 29.09,
+    "reliable": 1
+  },
+  {
+    "order": 332,
+    "parent_id": "sensor-temperatura-04",
+    "value": 39.67,
+    "reliable": 2
+  },
+  {
+    "order": 333,
+    "parent_id": "sensor-temperatura-02",
+    "value": 14.84,
+    "reliable": 1
+  },
+  {
+    "order": 334,
+    "parent_id": "sensor-temperatura-05",
+    "value": 31.58,
+    "reliable": 2
+  },
+  {
+    "order": 335,
+    "parent_id": "sensor-temperatura-05",
+    "value": 23.8,
+    "reliable": 1
+  },
+  {
+    "order": 336,
+    "parent_id": "sensor-temperatura-01",
+    "value": 42.24,
+    "reliable": 1
+  },
+  {
+    "order": 337,
+    "parent_id": "sensor-temperatura-03",
+    "value": 5.33,
+    "reliable": 2
+  },
+  {
+    "order": 338,
+    "parent_id": "sensor-temperatura-04",
+    "value": 15.12,
+    "reliable": 2
+  },
+  {
+    "order": 339,
+    "parent_id": "sensor-temperatura-04",
+    "value": 34.98,
+    "reliable": 2
+  },
+  {
+    "order": 340,
+    "parent_id": "sensor-temperatura-05",
+    "value": 11.57,
+    "reliable": 2
+  },
+  {
+    "order": 341,
+    "parent_id": "sensor-temperatura-05",
+    "value": 24.03,
+    "reliable": 0
+  },
+  {
+    "order": 342,
+    "parent_id": "sensor-temperatura-02",
+    "value": 25.75,
+    "reliable": 1
+  },
+  {
+    "order": 343,
+    "parent_id": "sensor-temperatura-03",
+    "value": -0.42,
+    "reliable": 1
+  },
+  {
+    "order": 344,
+    "parent_id": "sensor-temperatura-01",
+    "value": 49.21,
+    "reliable": 1
+  },
+  {
+    "order": 345,
+    "parent_id": "sensor-temperatura-05",
+    "value": 6.73,
+    "reliable": 0
+  },
+  {
+    "order": 346,
+    "parent_id": "sensor-temperatura-01",
+    "value": 12.42,
+    "reliable": 2
+  },
+  {
+    "order": 347,
+    "parent_id": "sensor-temperatura-04",
+    "value": 39.28,
+    "reliable": 1
+  },
+  {
+    "order": 348,
+    "parent_id": "sensor-temperatura-03",
+    "value": 32.22,
+    "reliable": 0
+  },
+  {
+    "order": 349,
+    "parent_id": "sensor-temperatura-05",
+    "value": 26.61,
+    "reliable": 0
+  },
+  {
+    "order": 350,
+    "parent_id": "sensor-temperatura-02",
+    "value": 4.94,
+    "reliable": 1
+  },
+  {
+    "order": 351,
+    "parent_id": "sensor-temperatura-04",
+    "value": 23.31,
+    "reliable": 1
+  },
+  {
+    "order": 352,
+    "parent_id": "sensor-temperatura-02",
+    "value": 8.34,
+    "reliable": 1
+  },
+  {
+    "order": 353,
+    "parent_id": "sensor-temperatura-05",
+    "value": 1.64,
+    "reliable": 0
+  },
+  {
+    "order": 354,
+    "parent_id": "sensor-temperatura-02",
+    "value": 26.58,
+    "reliable": 1
+  },
+  {
+    "order": 355,
+    "parent_id": "sensor-temperatura-01",
+    "value": 37.18,
+    "reliable": 2
+  },
+  {
+    "order": 356,
+    "parent_id": "sensor-temperatura-01",
+    "value": 1.86,
+    "reliable": 0
+  },
+  {
+    "order": 357,
+    "parent_id": "sensor-temperatura-03",
+    "value": 39.93,
+    "reliable": 2
+  },
+  {
+    "order": 358,
+    "parent_id": "sensor-temperatura-01",
+    "value": 2.55,
+    "reliable": 0
+  },
+  {
+    "order": 359,
+    "parent_id": "sensor-temperatura-01",
+    "value": -0.48,
+    "reliable": 2
+  },
+  {
+    "order": 360,
+    "parent_id": "sensor-temperatura-03",
+    "value": 26.31,
+    "reliable": 0
+  },
+  {
+    "order": 361,
+    "parent_id": "sensor-temperatura-02",
+    "value": 42.73,
+    "reliable": 2
+  },
+  {
+    "order": 362,
+    "parent_id": "sensor-temperatura-01",
+    "value": -1.43,
+    "reliable": 1
+  },
+  {
+    "order": 363,
+    "parent_id": "sensor-temperatura-04",
+    "value": 18.49,
+    "reliable": 1
+  },
+  {
+    "order": 364,
+    "parent_id": "sensor-temperatura-02",
+    "value": 4.47,
+    "reliable": 1
+  },
+  {
+    "order": 365,
+    "parent_id": "sensor-temperatura-03",
+    "value": 49.49,
+    "reliable": 1
+  },
+  {
+    "order": 366,
+    "parent_id": "sensor-temperatura-02",
+    "value": 17.06,
+    "reliable": 2
+  },
+  {
+    "order": 367,
+    "parent_id": "sensor-temperatura-04",
+    "value": 35.52,
+    "reliable": 1
+  },
+  {
+    "order": 368,
+    "parent_id": "sensor-temperatura-01",
+    "value": 17.38,
+    "reliable": 1
+  },
+  {
+    "order": 369,
+    "parent_id": "sensor-temperatura-02",
+    "value": 44.99,
+    "reliable": 0
+  },
+  {
+    "order": 370,
+    "parent_id": "sensor-temperatura-01",
+    "value": 35.98,
+    "reliable": 0
+  },
+  {
+    "order": 371,
+    "parent_id": "sensor-temperatura-01",
+    "value": 38.31,
+    "reliable": 1
+  },
+  {
+    "order": 372,
+    "parent_id": "sensor-temperatura-03",
+    "value": 43.6,
+    "reliable": 2
+  },
+  {
+    "order": 373,
+    "parent_id": "sensor-temperatura-05",
+    "value": 29.53,
+    "reliable": 1
+  },
+  {
+    "order": 374,
+    "parent_id": "sensor-temperatura-04",
+    "value": 31.88,
+    "reliable": 2
+  },
+  {
+    "order": 375,
+    "parent_id": "sensor-temperatura-05",
+    "value": 1.76,
+    "reliable": 0
+  },
+  {
+    "order": 376,
+    "parent_id": "sensor-temperatura-02",
+    "value": 34.73,
+    "reliable": 2
+  },
+  {
+    "order": 377,
+    "parent_id": "sensor-temperatura-01",
+    "value": 21.07,
+    "reliable": 1
+  },
+  {
+    "order": 378,
+    "parent_id": "sensor-temperatura-04",
+    "value": 44.09,
+    "reliable": 2
+  },
+  {
+    "order": 379,
+    "parent_id": "sensor-temperatura-05",
+    "value": -0.04,
+    "reliable": 1
+  },
+  {
+    "order": 380,
+    "parent_id": "sensor-temperatura-01",
+    "value": 20.04,
+    "reliable": 1
+  },
+  {
+    "order": 381,
+    "parent_id": "sensor-temperatura-01",
+    "value": 1.52,
+    "reliable": 0
+  },
+  {
+    "order": 382,
+    "parent_id": "sensor-temperatura-02",
+    "value": 29.06,
+    "reliable": 2
+  },
+  {
+    "order": 383,
+    "parent_id": "sensor-temperatura-03",
+    "value": 49.21,
+    "reliable": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "sensor-temperatura-01",
+    "name": "Sensor de temperatura #1",
+    "group_id": "temperatura-estufa",
+    "address": {
+      "rasp_id": "rasp-01",
+      "pin": 13
+    }
+  },
+  {
+    "_id": "sensor-temperatura-02",
+    "name": "Sensor de temperatura #2",
+    "group_id": "temperatura-estufa",
+    "address": {
+      "rasp_id": "rasp-01",
+      "pin": 2
+    }
+  },
+  {
+    "_id": "sensor-temperatura-03",
+    "name": "Sensor de temperatura #3",
+    "group_id": "temperatura-estufa",
+    "address": {
+      "rasp_id": "rasp-01",
+      "pin": 3
+    }
+  },
+  {
+    "_id": "sensor-temperatura-04",
+    "name": "Sensor de temperatura #4",
+    "group_id": "temperatura-estufa",
+    "address": {
+      "rasp_id": "rasp-01",
+      "pin": 7
+    }
+  },
+  {
+    "_id": "sensor-temperatura-05",
+    "name": "Sensor de temperatura #5",
+    "group_id": "temperatura-estufa",
+    "address": {
+      "rasp_id": "rasp-02",
+      "pin": 1
+    }
+  },
+  {
+    "_id": "sensor-umidade-01",
+    "name": "Sensor de umidade #1",
+    "group_id": "umidade-estufa",
+    "address": {
+      "rasp_id": "rasp-03",
+      "pin": 1
+    }
+  },
+  {
+    "_id": "sensor-umidade-02",
+    "name": "Sensor de umidade #2",
+    "group_id": "umidade-estufa",
+    "address": {
+      "rasp_id": "rasp-03",
+      "pin": 10
+    }
+  },
+  {
+    "_id": "sensor-umidade-03",
+    "name": "Sensor de umidade #3",
+    "group_id": "umidade-estufa",
+    "address": {
+      "rasp_id": "rasp-03",
+      "pin": 13
+    }
+  }
+]

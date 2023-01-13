@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "temperatura-estufa",
+    "name": "Temperatura interna da estufa",
+	"type": "sensors",
+	"data":{
+		"type": "number",
+		"unit": "°C",
+		"min": -20,
+		"max": 100
+	}
+  },
+  {
+    "_id": "umidade-estufa",
+    "name": "Umidade interna da estufa",
+	"type": "sensors",
+	"data":{
+		"type": "number",
+		"unit": "%",
+		"min": 0,
+		"max": 100
+	}
+  }
+]
